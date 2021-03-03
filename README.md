@@ -27,6 +27,17 @@
             <li><a href="#Account_Creation">Account Creation</a></li>
         </ul>
     </main>
+    <style>
+        h1 {
+            color: blue;
+            font-family: 'Times New Roman', sans-serif;
+        }
+        
+        p {
+            color: red;
+            font-family: 'Times New Roman', sans-serif;
+        }
+    </style>
 </body>
 
 </html>
