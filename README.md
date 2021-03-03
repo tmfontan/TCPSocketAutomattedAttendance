@@ -13,7 +13,7 @@
         <img src="Screenshots/Social_Media_Image.jpg" alt="Mothership Attendance Social Media Image">
         <p>Mothership Attendance is a Java Swing / AWT application which functions as an attendance recording tool for a group of custom created attendee accounts. Other than the previously mentioned process, the application also gives user’s access to four separate features depending on the their selected account type. A list of these additional features is provided below:</p>
         <ul class="app_feature">
-            <li><a src="#ProfileCustomization">Profile Customization</a></li>
+            <li><a href="#ProfileCustomization">Profile Customization</a></li>
             <li><a src="#CourseCreationManagement">Course Creation / Management</a></li>
             <li><a src="#AttendeeChatInterface">Attendee Chat Interface</a></li>
             <li><a src="#AttendanceRecordManipulation">Attendance Record Manipulation</a></li>
