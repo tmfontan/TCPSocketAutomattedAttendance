@@ -1,40 +1,18 @@
-# Mothership Attendance
-An Account Based Java Swing Program which Allows For Teachers to Mark / Modify Student Attendance Records Via a Remote MySQL Database and TCP Server-Client Connection Interface.
+<!DOCTYPE html>
+<html lang="en">
 
-![Alt Text](Screenshots/Screenshot_A.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_B.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_C.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_D.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_E.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_F.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_G.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_H.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_I.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_J.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_K.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_L.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_M.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_N.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_O.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_P.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_Q.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_R.png)
-![Alt Text](Screenshots/Divider.png)
-![Alt Text](Screenshots/Screenshot_T.png)
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mothership Attendance Walkthrough</title>
+    <!-- <link href="styles.css" rel="stylesheet"> -->
+</head>
+
+<body>
+    <main>
+        <h1>TCP Automated Attendance (Mothership Attendance)</h1>
+        <img src="Screenshots/Screenshot_A" alt="Mothership Attendance Social Media Image">
+        <p>Mothership Attendance is a Java Swing / AWT application which functions as an attendance recording tool for a group of custom created attendee accounts. Other than the previously mentioned process, the application also gives user’s access to four separate features depending on the their selected account type. A list of these additional features is provided below:</p>
+    </main>
+</body>
+</html>
