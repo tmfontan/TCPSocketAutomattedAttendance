@@ -25,6 +25,7 @@
             <li><a src="#Login-Screen">Login Screen</a></li>
             <li><a src="#Account-Creation">Account Creation</a></li>
         </ul>
+        <div id="ProfileCustomization">Profile Customization</div>
     </main>
 </body>
 </html>
